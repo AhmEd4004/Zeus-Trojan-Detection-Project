@@ -13,14 +13,15 @@
      Download link: https://drive.google.com/file/d/1WnlYaVaDUi83Yvw7ER9j80pcXifnCQbW/view
 2. Download all the packages and necessary software in prerequisites
 3. Configure Suricata for Network Monitoring:
-     Watch the following video or read Documentation
-    
-5. Integrate with Splunk:
-     Watch the following video or read Documentation
-6. Analyze Memory with Volatility:
-     Watch the following video or read Documentation
-7. Detect Zeus with YARA Signatures:
-     Watch the following video or read Documentation
+     Watch the following video
+     https://youtu.be/en6ETckOEuY
+5. Integrate with Splunk: Read the uploaded documentation
+7. Analyze Memory with Volatility:
+     Watch the following video or read the uploaded documentation
+     https://youtu.be/y46kdIi1GCs
+8. Detect Zeus with YARA Signatures:
+     Watch the following video or read the uploaded documentation
+     https://youtu.be/dHeKs47Ac7s
 
 ## Usage
  Detect and analyze the Zeus Banking Trojan using various tools and techniques,
